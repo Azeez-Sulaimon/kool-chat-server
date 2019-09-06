@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "index.js"
-  
   },
   "repository": {
     "type": "git",
@@ -16,8 +15,7 @@
   "bugs": {
     "url": "https://github.com/Azeez-Sulaimon/kool-chat-server/issues"
   },
-  "homepage": "https://github.com/Azeez-Sulaimon/kool-chat-server#readme"
-  ,
+  "homepage": "https://github.com/Azeez-Sulaimon/kool-chat-server#readme",
   "engines": {
     "node": "10.16.0"
   }
