@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Azeez-Sulaimon/kool-chat-server#readme"
   ,
   "engines": {
-    "node": "16.0"
+    "node": "10.16.0"
   }
 }
